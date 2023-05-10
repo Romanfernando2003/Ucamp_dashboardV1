@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-3",
+  "version": "1.0.0",
+  "description": "Tercer Proyecto UCAMP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romanfernando2003/Ucamp_dashboardV1.git"
+  },
+  "author": "ROMAN MALDONADO Y EDWARD HOLGUIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romanfernando2003/Ucamp_dashboardV1/issues"
+  },
+  "homepage": "https://github.com/Romanfernando2003/Ucamp_dashboardV1#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "chart": "^0.1.2"
+  }
+}
